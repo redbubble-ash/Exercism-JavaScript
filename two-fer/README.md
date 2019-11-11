@@ -64,4 +64,4 @@ completed the exercise.
 
 
 ## Result
-![image]("Capture.PNG")
+![image](Capture.PNG)
