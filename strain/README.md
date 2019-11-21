@@ -69,3 +69,6 @@ Conversation with James Edward Gray II [https://twitter.com/jeg2](https://twitte
 
 It's possible to submit an incomplete solution so you can see how others have
 completed the exercise.
+
+## Test Result
+![image](Capture.PNG)
