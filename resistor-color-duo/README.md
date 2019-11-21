@@ -51,3 +51,6 @@ Maud de Vries, Erik Schierboom [https://github.com/exercism/problem-specificatio
 ## Submitting Incomplete Solutions
 
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+
+## Test Result
+![image](Capture.PNG)
