@@ -58,3 +58,6 @@ The Ruby Koans triangle project, parts 1 & 2 [http://rubykoans.com](http://rubyk
 
 It's possible to submit an incomplete solution so you can see how others have
 completed the exercise.
+
+## Result
+![image](Capture.PNG)
