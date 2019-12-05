@@ -53,3 +53,6 @@ The Pig Latin exercise at Test First Teaching by Ultrasaurus [https://github.com
 
 It's possible to submit an incomplete solution so you can see how others have
 completed the exercise.
+
+## Result
+![image](Capture.PNG)
