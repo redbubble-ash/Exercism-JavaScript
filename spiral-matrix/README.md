@@ -59,3 +59,6 @@ Reddit r/dailyprogrammer challenge #320 [Easy] Spiral Ascension. [https://www.re
 
 It's possible to submit an incomplete solution so you can see how others have
 completed the exercise.
+
+## Test result
+![image](Capture.PNG)
